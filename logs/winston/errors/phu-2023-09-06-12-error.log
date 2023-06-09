@@ -1,0 +1,36 @@
+{
+  level: 'error',
+  message: 'Failed to connect database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.',
+  stack: 'MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n' +
+    '    at _createMongoClient (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/node_modules/mongoose/lib/connection.js:805:11)\n' +
+    '    at NativeConnection.openUri (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/node_modules/mongoose/lib/connection.js:742:29)\n' +
+    '    at Mongoose.connect (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/node_modules/mongoose/lib/index.js:406:15)\n' +
+    '    at /home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:8:20\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at /home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:4:12)\n' +
+    '    at bootstrap (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:20:12)\n' +
+    '    at Object.<anonymous> (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:19:1)',
+  label: 'UM',
+  timestamp: '2023-06-09T06:07:33.662Z'
+}
+{
+  level: 'error',
+  message: 'Failed to connect database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.',
+  stack: 'MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n' +
+    '    at _createMongoClient (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/node_modules/mongoose/lib/connection.js:805:11)\n' +
+    '    at NativeConnection.openUri (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/node_modules/mongoose/lib/connection.js:742:29)\n' +
+    '    at Mongoose.connect (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/node_modules/mongoose/lib/index.js:406:15)\n' +
+    '    at /home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:8:20\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at /home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:4:12)\n' +
+    '    at bootstrap (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:20:12)\n' +
+    '    at Object.<anonymous> (/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/src/server.ts:19:1)',
+  label: 'UM',
+  timestamp: '2023-06-09T06:07:49.170Z'
+}
+Fri Jun 09 2023 12:10:0 [UM] error: Failed to connect database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Fri Jun 09 2023 12:10:1 [UM] error: Failed to connect database The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
