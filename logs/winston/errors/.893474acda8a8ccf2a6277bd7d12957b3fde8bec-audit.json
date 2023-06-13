@@ -1,0 +1,15 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/.893474acda8a8ccf2a6277bd7d12957b3fde8bec-audit.json",
+  "files": [
+    {
+      "date": 1686290781548,
+      "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/phu-2023-06-09-12-error.log",
+      "hash": "598e3779b7382f3c1c85445a8ca1c346eb8d0482d27ab884cb6e9aa53ac95893"
+    }
+  ],
+  "hashType": "sha256"
+}
