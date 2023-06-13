@@ -9,6 +9,36 @@
             "date": 1686290853649,
             "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/phu-2023-09-06-12-error.log",
             "hash": "3110f6a234899d4334b2bcb640d3ab6feefd52d666fbd5bf80cd230760795d90"
+        },
+        {
+            "date": 1686570554278,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/phu-2023-12-06-17-error.log",
+            "hash": "644b08d63de4de1fcee10ad427d4454cdf640e779a074bb15db6a16782b95f50"
+        },
+        {
+            "date": 1686571771910,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/phu-2023-12-06-18-error.log",
+            "hash": "c83a10202e2c1372810c22d861b0795eee328127f9fa9f771b17af879f60f4f6"
+        },
+        {
+            "date": 1686579641956,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/phu-2023-12-06-20-error.log",
+            "hash": "89d9f8461819558b60c971d5d635adce60c8138fe1ea053bfeb9ae546eb3e7c3"
+        },
+        {
+            "date": 1686591432169,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/phu-2023-12-06-23-error.log",
+            "hash": "1acc3f7a17d80ad1a3286c82977c6c88ce5112430585370509eb98fa04f195b2"
+        },
+        {
+            "date": 1686677500932,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/phu-2023-13-06-23-error.log",
+            "hash": "e056421ebb5b166ae079d114ac3af8d372349fdbd1d9f343ab573df1b302267c"
+        },
+        {
+            "date": 1686679278080,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/errors/phu-2023-14-06-00-error.log",
+            "hash": "a82916f67e43468adc566c9da8bbf03e13394eda50c66c0d661a6d0489315036"
         }
     ],
     "hashType": "sha256"

@@ -1,0 +1,102 @@
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:01:18.965Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:01:18.984Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:02:20.599Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:02:37.820Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:02:37.863Z'
+}
+Wed Jun 14 2023 0:5:17 [UM] info: 🛢 Database is connected successfully
+Wed Jun 14 2023 0:5:17 [UM] info: Application listening on port 5000
+Wed Jun 14 2023 0:7:31 [UM] info: SIGTERM is received
+Wed Jun 14 2023 0:7:56 [UM] info: 🛢 Database is connected successfully
+Wed Jun 14 2023 0:7:56 [UM] info: ⏳ Application listening on port 5000
+Wed Jun 14 2023 0:10:47 [UM] info: SIGTERM is received
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:14:26.827Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:14:26.848Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:16:02.212Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:16:02.231Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:16:06.987Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:16:25.923Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:16:25.943Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:16:38.712Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:18:41.705Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-13T18:18:41.719Z'
+}
+{
+  level: 'info',
+  message: 'SIGTERM is received',
+  label: 'UM',
+  timestamp: '2023-06-13T18:19:00.282Z'
+}

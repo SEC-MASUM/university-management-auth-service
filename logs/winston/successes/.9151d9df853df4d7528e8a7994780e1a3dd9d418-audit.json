@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/.9151d9df853df4d7528e8a7994780e1a3dd9d418-audit.json",
-    "files": [
-        {
-            "date": 1686290781543,
-            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-06-09-12-success.log",
-            "hash": "2944df6ab01d5e89519e8b58f42a917ad1b8cc78c57ed5e9c4b7a480ea479a00"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/.9151d9df853df4d7528e8a7994780e1a3dd9d418-audit.json",
+  "files": [
+    {
+      "date": 1686290781543,
+      "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-06-09-12-success.log",
+      "hash": "2944df6ab01d5e89519e8b58f42a917ad1b8cc78c57ed5e9c4b7a480ea479a00"
+    }
+  ],
+  "hashType": "sha256"
 }

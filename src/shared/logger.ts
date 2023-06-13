@@ -54,4 +54,4 @@ const errorLogger = createLogger({
   ],
 })
 
-export { logger, errorLogger }
+export { errorLogger, logger }

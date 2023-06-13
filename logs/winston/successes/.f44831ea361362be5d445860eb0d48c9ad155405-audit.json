@@ -9,6 +9,36 @@
             "date": 1686290853643,
             "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-09-06-12-success.log",
             "hash": "6c8c1cbe160d7e7eeb12e0824be6336ed256ea97d01892a003d368b08453b8b6"
+        },
+        {
+            "date": 1686570554274,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-12-06-17-success.log",
+            "hash": "9f4936e20b0d1023d4fd2f9028404e787ad15b0fab9222e3b081b1a45f8d4feb"
+        },
+        {
+            "date": 1686571771895,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-12-06-18-success.log",
+            "hash": "b589ee0790c067a88ac6b9fde7b682a87a1a44b183e4788121be2059ecc2e28a"
+        },
+        {
+            "date": 1686579641951,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-12-06-20-success.log",
+            "hash": "e84433b4d42452c558d6de7d70b5c1e20dfe4029712518dafa2aee15bc228620"
+        },
+        {
+            "date": 1686591432162,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-12-06-23-success.log",
+            "hash": "bc76abe113d9bf34d37feb6079218223d6b71e529fa93f545cb6242b08d75832"
+        },
+        {
+            "date": 1686677500928,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-13-06-23-success.log",
+            "hash": "8841114ab2ab600250e0089a21b2b79b34c654da2a935e48c0ee906926460f7c"
+        },
+        {
+            "date": 1686679278075,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-14-06-00-success.log",
+            "hash": "42bf3e3c57d3367ac4897f8bda7d50282a9aa6558042bc644b6265b3e7352828"
         }
     ],
     "hashType": "sha256"
