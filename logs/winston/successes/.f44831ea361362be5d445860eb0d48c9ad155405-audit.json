@@ -59,6 +59,16 @@
             "date": 1686941545943,
             "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-17-06-00-success.log",
             "hash": "81b7217cf42415812695f59193820819366433f4d9a1e3d28929df7e1a118e4d"
+        },
+        {
+            "date": 1686942481669,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-17-06-01-success.log",
+            "hash": "600aed27c57f8a6ef5c2bad8b760976df15f3ec988174051005cff1f87f9c742"
+        },
+        {
+            "date": 1686945891573,
+            "name": "/home/littleman/Programming/pHero/level_2/mission_03_nosql_backend/university-management-auth-service/logs/winston/successes/phu-2023-17-06-02-success.log",
+            "hash": "fd6c28187b62e70db5096a4edcfab878f9952096aa8bcf430bdbb4c2072161fb"
         }
     ],
     "hashType": "sha256"
