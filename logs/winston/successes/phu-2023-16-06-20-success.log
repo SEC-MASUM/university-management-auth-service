@@ -1,0 +1,72 @@
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:17:46.492Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:17:46.510Z'
+}
+Fri Jun 16 2023 20:18:19 [UM] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 20:18:19 [UM] info: ⏳ Application listening on port 5000
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:20:22.449Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:20:22.482Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:21:33.414Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:21:33.444Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:21:50.041Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:21:50.070Z'
+}
+{
+  message: '🛢 Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:22:03.849Z'
+}
+{
+  message: '⏳ Application listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-16T14:22:03.876Z'
+}
+Fri Jun 16 2023 20:22:16 [UM] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 20:22:16 [UM] info: ⏳ Application listening on port 5000
+Fri Jun 16 2023 20:22:19 [UM] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 20:22:19 [UM] info: ⏳ Application listening on port 5000
+Fri Jun 16 2023 20:25:5 [UM] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 20:25:5 [UM] info: ⏳ Application listening on port 5000
+Fri Jun 16 2023 20:33:48 [UM] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 20:33:48 [UM] info: ⏳ Application listening on port 5000
+Fri Jun 16 2023 20:33:51 [UM] info: 🛢 Database is connected successfully
+Fri Jun 16 2023 20:33:51 [UM] info: ⏳ Application listening on port 5000
